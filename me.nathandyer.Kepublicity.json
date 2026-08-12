@@ -61,8 +61,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://codeberg.org/nathandyer/Kepublicity/archive/0.1.2.tar.gz",
-                    "sha256" : "fcbbfe096d5d04096b397089db6077828e6b7e92c87de81539b2b98a6f55fc91"
+                    "url" : "https://codeberg.org/nathandyer/Kepublicity/archive/0.2.0.tar.gz",
+                    "sha256" : "50b23061f6838a6e43b6eee90ffc7ef69c10a408465c2cb664b8839e5c4a74be"
                 }
             ]
         }
